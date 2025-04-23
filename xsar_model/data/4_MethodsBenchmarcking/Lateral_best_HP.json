@@ -1,0 +1,1 @@
+{"class_weight": {"0": 1, "1": 10}, "max_depth": 11, "max_features": 1.0, "n_estimators": 810}
