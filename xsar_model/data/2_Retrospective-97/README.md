@@ -17,6 +17,8 @@ Each compound was labeled with a binary outcome based on manual crystallographic
 - **TRUE** = "binder", clearly resolved in electron density.
 - **FALSE** = "non-binder", no crystallographic evidence of binding.
 
+Statistical significance between binding scores for binders vs. non-binders was assessed using the **Mann–Whitney U test**.
+
 ---
 
 ## 📄 File contents
