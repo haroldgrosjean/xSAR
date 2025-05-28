@@ -36,9 +36,11 @@ conda activate xsar
 
 ---
 
-## Citation
+## Citations
 
-TBD – Citation will be provided upon publication.
+- Main reference: Grosjean, H., Fieseler, K., et al. Structure–Activity Relationships Can Be Directly Extracted from High-Throughput Crystallographic Evaluation of Fragment Elaborations in Crude Reaction Mixtures. ChemRxiv (2024). https://chemrxiv.org/engage/chemrxiv/article-details/68304d0a1a8f9bdab564af6d
+
+- Background reference: Grosjean, H., et al. Binding-Site Purification of Actives (B-SPA) Enables Efficient Large-Scale Progression of Fragment Hits by Combining Multi-Step Array Synthesis with HT Crystallography. Angew. Chem. Int. Ed. (2024). https://doi.org/10.1002/anie.202424373
 
 ---
 
